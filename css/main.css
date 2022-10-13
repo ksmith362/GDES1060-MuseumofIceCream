@@ -109,6 +109,9 @@ header {
   }
 }
 
+.orbit-bullets{
+    margin: 0px;
+}
 
 .topnavheader a {
     color: #FDFAF2;
